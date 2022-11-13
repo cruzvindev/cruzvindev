@@ -2,7 +2,7 @@
 
 
 - 🔭 Em busca da primeira oportunidade como programador 
-- 🌱 Estudando Java e outras tecnologias 
+- 🌱 Estudando Java e Spring
 
 
 <div align="center">
