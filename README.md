@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que tenho interesse</h2>
+<h2 align="left">Principais tecnologias que tenho interesse</h2>
 
 ###
 
