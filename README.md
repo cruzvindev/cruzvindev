@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Sou apaixonado e aficionado por tecnologia e inovação<br>📚 Tenho como foco em meus estudos a área de desenvolvimento Back-End<br>🎯 Sou graduando em Sistemas de Informação</p>
+<p align="left">✨ Sou aficionado por tecnologia<br>📚 Tenho como foco em meus estudos a área de desenvolvimento Back-End<br>🎯 Sou graduando em Sistemas de Informação</p>
 
 ###
 
