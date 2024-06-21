@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Meu nome é Vinicius e eu sou de João Pessoa - PB  😄</p>
+<p align="left">Atualmente sou bolsista em desenvolvimento fullstack na Go Beesiness utilizando Angular e .NET Core 🚀</p>
 
 ###
 
